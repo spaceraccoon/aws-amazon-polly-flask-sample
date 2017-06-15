@@ -15,10 +15,12 @@ To fix this, you have to add an `adminuser` profile to your `config` file. On Li
 
 Simply add the following at the bottom of the file.
 
-`[profile adminuser]
+```
+[profile adminuser]
 region = INSERT REGION
 output = INSERT JSON
 aws_access_key_id = INSERT ACCESS KEY ID
-aws_secret_access_key = INSERT SECRET ACCESS KEY`
+aws_secret_access_key = INSERT SECRET ACCESS KEY
+```
 
 You can simply use the same values as those under the `default` user.
