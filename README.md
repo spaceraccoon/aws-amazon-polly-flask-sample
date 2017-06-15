@@ -1,5 +1,5 @@
 # Amazon Polly Flask Sample
-Amazon Polly implementation that mirrors the Python example provided by AWS, only using the Flask framework. This cuts down the number of lines in server.py by 50% while preserving the same functionality.
+Amazon Polly implementation that mirrors the [Python example](http://docs.aws.amazon.com/polly/latest/dg/examples-python.html) provided by AWS, only using the Flask framework. This cuts down the number of lines in server.py by 50% while preserving the same functionality.
 
 ## Installation
 1. [Install](http://docs.aws.amazon.com/cli/latest/userguide/installing.html) the AWS Command Line Interface and [configure](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html) it.
